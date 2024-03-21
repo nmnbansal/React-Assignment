@@ -1,0 +1,29 @@
+nav {
+    background-color: orangered;
+    color: #fff;
+    padding: 10px 20px; 
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  .nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px; 
+    font-weight: bold; 
+    transition: color 0.3s; 
+  }
+  
+  .nav-link:hover {
+    color: #f8f9fa;
+  }
+  
