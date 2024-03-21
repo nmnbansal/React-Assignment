@@ -1,0 +1,25 @@
+.image-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  
+  .image-card img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .image-details {
+    padding: 10px;
+  }
+  
+  .image-details h3 {
+    margin: 0;
+  }
+  
+  .image-details p {
+    margin: 5px 0;
+  }
+  
